@@ -1,5 +1,5 @@
 import { Universe, Cell } from 'wasm-game-of-life';
-import { memory } from 'wasm-game-of-life/wasm_game_of_life_bg';
+import { memory } from 'wasm-dilly1/wasm_dilly1_bg';
 import './style.css';
 
 let canvas, ctx, universe;
